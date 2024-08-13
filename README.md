@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">About me</h1>
+<h3 align="left">About me</h3>
 
 ###
 
