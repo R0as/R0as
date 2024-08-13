@@ -4,7 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="125" src="https://media.tenor.com/6Rk6Z96eMIoAAAAM/gear-5-one-piece.gif"  />
 
 ###
 
