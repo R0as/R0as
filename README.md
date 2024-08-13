@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h1 align="left">About me</h1>
 
 ###
+
+<br clear="both">
 
 <p align="left">- 21 years<br>- Computer science student at UFES<br>- Member of @adaptiOficial<br>- Flamengo</p>
 
@@ -27,6 +31,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">Stats</h1>
 
