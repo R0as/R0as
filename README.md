@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">- 21 years<br>- Computer science student at UFES<br>- Member of @adaptiOficial<br>- Flamengo</p>
+<p align="left">- 21 years<br>- Computer science student at UFES<br>- Member of @adaptiOficial<br></p>
 
 ###
 
