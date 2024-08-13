@@ -2,18 +2,13 @@
 
 ###
 
-<br clear="both">
-
-
-###
-
 <p align="left">- 21 years<br>- Computer science student at UFES<br>- Member of @adaptiOficial<br>- Flamengo</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Techs</h2>
+<h1 align="left">Techs</h1>
 
 ###
 
@@ -33,7 +28,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h1 align="left">Stats</h1>
 
 ###
 
