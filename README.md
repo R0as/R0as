@@ -1,4 +1,5 @@
 <br clear="both">
+<p align="left">Welcome to my profile👋</p>
 
 <h1 align="left">About me</h1>
 
