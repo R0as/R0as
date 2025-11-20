@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">- 23 years<br>- Computer science student at UFES<br>- Member of @adaptiOficial</p>
+<p align="left">- 23 years<br>- Computer science student at UFES</p>
 
 ###
 
